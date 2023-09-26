@@ -49,17 +49,7 @@ const ASider = memo(() => {
 
 export default ASider;
 ```
-![[6d5b9322fa92fd37b1af8ec514c584c.png]]
 
-asd
-![[asset/6d5b9322fa92fd37b1af8ec514c584c 1.png]]saddas
-
-
-
-![[react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png]]
-！[Alt text](6d5b9322fa92fd37b1af8ec514c584c.png)
-！[Alt text](/6d5b9322fa92fd37b1af8ec514c584c.png)
-！[Alt text](asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
-！[Alt text](/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
-！[Alt text](react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
-！[Alt text](/react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
+![[asset/6d5b9322fa92fd37b1af8ec514c584c 1.png]]sad
+obsidian://open?vault=git-test_obsidian&file=react%2Fasset%2F6d5b9322fa92fd37b1af8ec514c584c.png
+![](./asset/6d5b9322fa92fd37b1af8ec514c584c 1.png)
