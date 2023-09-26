@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "0e71e47107f7b235",
+    "type": "split",
+    "children": [
+      {
+        "id": "048f9277855065df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39391d120b4b8254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react/jichuiasd.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beb67d9bbc78af88",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0561adcce74b7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab520b0021b308d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0decef2feb30618f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9422e9201f61baaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9912bab73ee6eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eac6ea2993a83db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ce3e6ef398bee0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "react/jichuiasd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a30646800c1a3079",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "react/jichuiasd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1b58c6912803965",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c77d035b97f115be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "react/jichuiasd.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "39391d120b4b8254",
+  "lastOpenFiles": [
+    "react/jichuiasd.md",
+    "react/asset/6d5b9322fa92fd37b1af8ec514c584c.png",
+    "react/asset/6d5b9322fa92fd37b1af8ec514c584c 1.png",
+    "react/asset",
+    "jjjjjssss.md",
+    "react"
+  ]
+}
