@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "048f9277855065df",
+        "id": "e15a21dafca716b3",
         "type": "tabs",
         "children": [
           {
-            "id": "39391d120b4b8254",
+            "id": "417c93254c3e8243",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39391d120b4b8254",
+  "active": "417c93254c3e8243",
   "lastOpenFiles": [
+    "linear_regression/result_matrix.png.md",
+    "react/jichuiasd.md",
+    "linear_regression",
     "react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png",
     "react/asset/6d5b9322fa92fd37b1af8ec514c584c 1.png",
-    "react/jichuiasd.md",
     "react/asset/6d5b9322fa92fd37b1af8ec514c584c.png",
     "react/asset",
     "jjjjjssss.md",

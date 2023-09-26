@@ -57,3 +57,9 @@ asd
 
 
 ![[react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png]]
+！[Alt text](6d5b9322fa92fd37b1af8ec514c584c.png)
+！[Alt text](/6d5b9322fa92fd37b1af8ec514c584c.png)
+！[Alt text](asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
+！[Alt text](/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
+！[Alt text](react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
+！[Alt text](/react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
