@@ -50,4 +50,4 @@ const ASider = memo(() => {
 export default ASider;
 ```
 
-![image](/react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
+![](https://github.com/ChanBZX/git-test_obsidian/blob/main/react/asset/6d5b9322fa92fd37b1af8ec514c584c%201.png?raw=true)
