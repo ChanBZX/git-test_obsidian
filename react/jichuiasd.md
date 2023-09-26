@@ -50,4 +50,4 @@ const ASider = memo(() => {
 export default ASider;
 ```
 
-![](/react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
+![image](/react/asset/6d5b9322fa92fd37b1af8ec514c584c 2.png)
